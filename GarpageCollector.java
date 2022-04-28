@@ -1,8 +1,0 @@
-package garpageCollectors;
-
-import garpageCollectors.INode;
-import java.util.ArrayList;
-
-public interface GarpageCollector {
-    ArrayList<INode> garbageCollect();
-}
